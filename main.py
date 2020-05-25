@@ -1,19 +1,15 @@
 # REPLACE THIS WITH YOUR NAME
 
 # WORKS CITED:
-# using color 
-# https://ozzmaker.com/add-colour-to-text-in-python/
-# using emojis
-# https://www.geeksforgeeks.org/python-program-to-print-emojis/ 
-# https://unicode.org/emoji/charts/full-emoji-list.html
-# REPLACE THIS WITH WEBSITE LINKS OR NAMES OF CLASSMATE HELPERS
+# REPLACE THIS WITH WEBSITE LINKS
 
 # UPGRADES: 
 # REPLACE THIS WITH A DESCRIPTION OF YOUR UPGRADE(S)
 
 ######### imports
 
-from getkey import getkey, keys # for getkey & use arrow keys
+# for getkey & use arrow keys
+from getkey import getkey, keys 
 
 ######### constants 
 
